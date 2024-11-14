@@ -5,22 +5,22 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 Link do Padlet: https://padlet.com/joaomoreira2004/kanban-4ashaskm4zfgzva8
 
 ## 1. Introdução
-***Grupo 3***
+***Grupo***
 
 ***1.1.  Nome do Grupo***
 ***Integrantes:***
 
-Alison Carvalho - AlisonCarv;
 
-Gabriel Sarti - GabrielSarti;
+NOME                               |Github
+-----------------------------------|----------------------------------------
+Alison Carvalho                    |-> AlisonCarv
+Gabriel Sarti                      |-> GabrielSarti
+João Pedro                         |-> JotaSoftware
+Kauan Santos Pedreira              |-> KauanPedreira
+Matheus Madureira                  |-> MatheusMadureiraa
+Nadia Yuzawa                       |-> NadiaYuzawa
+----------------------------------------------------------------------------
 
-João Pedro - JotaSoftware;
-
-Kauan Pedreira - KauanPedreira;
-
-Matheus Madureira - MatheusMadureiraa;
-
-Nadia Yuzawa - NadiaYuzawa;
 
 ***1.2.  Nome do Sistema***
 
